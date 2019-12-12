@@ -65,6 +65,7 @@
     <Compile Include="Assets\NCH_Scripts\Controlador_de_la_camara.cs" />
     <Compile Include="Assets\NCH_Scripts\Controlador_del_jugador.cs" />
     <Compile Include="Assets\NCH_Scripts\ControlarObjeto.cs" />
+    <Compile Include="Assets\NCH_Scripts\DialogueSystem.cs" />
     <Compile Include="Assets\NCH_Scripts\DragObject.cs" />
     <Compile Include="Assets\NCH_Scripts\MovementScript.cs" />
     <Compile Include="Assets\NCH_Scripts\Salir_del_juego.cs" />
@@ -76,6 +77,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\Interactable.cs" />
+    <Compile Include="Assets\Scripts\NPC.cs" />
+    <Compile Include="Assets\Scripts\PlayerAnimManager.cs" />
+    <Compile Include="Assets\Scripts\WorldInteraction.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
